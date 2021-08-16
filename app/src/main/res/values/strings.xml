@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">OurNDPSongs</string>
+    <string name="title">Song title</string>
+    <string name="hint_title">Enter song title here</string>
+    <string name="singer">Singers</string>
+    <string name="hint_singer">Enter singers name here</string>
+    <string name="year">Year</string>
+    <string name="year_hint">Enter year of release</string>
+    <string name="URL">URL</string>
+    <string name="URL_hint">Enter URL for the song</string>
+    <string name="stars">Stars</string>
+    <string name="insert">Insert</string>
+    <string name="list">Show list</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="btnFilter">Show all songs with 5 stars</string>
+
+</resources>
